@@ -66,3 +66,9 @@
 .fi-suya:before {
   content: "\69";
 }
+.fi-akpoti:before {
+  content: "\61";
+}
+.fi-plate:before {
+  content: "\6a";
+}
