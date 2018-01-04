@@ -72,3 +72,12 @@
 .fi-plate:before {
   content: "\6a";
 }
+.fi-fork:before {
+  content: "\6b";
+}
+.fi-knife:before {
+  content: "\6c";
+}
+.fi-spoon:before {
+  content: "\6d";
+}
