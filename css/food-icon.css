@@ -81,3 +81,21 @@
 .fi-spoon:before {
   content: "\6d";
 }
+.fi-bowl:before {
+  content: "\6e";
+}
+.fi-mango:before {
+  content: "\6f";
+}
+.fi-egg:before {
+  content: "\70";
+}
+.fi-eggs:before {
+  content: "\71";
+}
+.fi-bread:before {
+  content: "\73";
+}
+.fi-frying-pan:before {
+  content: "\72";
+}

@@ -1,7 +1,7 @@
 # food-icons
 Repository for a custom food icon set (like font-awesome). You can read the Medium post [here](https://blog.usejournal.com/food-icons-how-and-why-i-created-my-font-awesome-of-food-5cd72782c422).
 
-![All available icons](img/screenshot-5.png)
+![All available icons](img/screenshot-6.png)
 
 It contains common Nigerian food-related icons. Feel free to contribute!
 
