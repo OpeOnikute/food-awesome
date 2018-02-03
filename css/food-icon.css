@@ -99,3 +99,33 @@
 .fi-frying-pan:before {
   content: "\72";
 }
+.fi-banana:before {
+  content: "\74";
+}
+.fi-chicken-lap:before {
+  content: "\75";
+}
+.fi-juice:before {
+  content: "\76";
+}
+.fi-long-cup:before {
+  content: "\77";
+}
+.fi-mug:before {
+  content: "\78";
+}
+.fi-omorogun:before {
+  content: "\79";
+}
+.fi-orange:before {
+  content: "\7a";
+}
+.fi-paw-paw:before {
+  content: "\41";
+}
+.fi-plastic-bottle:before {
+  content: "\42";
+}
+.fi-yam:before {
+  content: "\43";
+}
