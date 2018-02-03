@@ -11,7 +11,7 @@ It contains common Nigerian food-related icons. Feel free to contribute!
 - Copy `food-icon.css` into your css folder.
 - Add the css to your html file's head: `<link href="css/food-icon.css" rel="stylesheet" type="text/css">`
 - Add the icon in the class of a HTML element. Common elements are `<i></i>` and `<div></div>`.
-- Add `fi-` in front of the icon name you want to add.
+- Add `fi fi-` in front of the icon name you want to add.
 - It's as easy as typing `<span><i class="fi-palm-wine"></i></span>` anywhere in your HTML.
 
 **Please note that the css file checks for the fonts in your `fonts` folder. Please make sure you have one.
